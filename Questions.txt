@@ -1,0 +1,19 @@
+1)Please write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension.
+2)Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10). 
+3)Write a program which can map() and filter() to make a list whose elements are square of even number in [1,2,3,4,5,6,7,8,9,10].
+4)Define a class named American which has a static method called printNationality.
+5)Define a class named American and its subclass NewYorker.
+6)Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. 
+7)Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area.
+8)Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Square classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+9)Use raise() to raise an exception.
+10)Write a function to compute 5/0 and use try/except to catch the exceptions.
+11)Please raise a RuntimeError exception.
+12)Define a custom exception class which takes a string message as attribute.
+13)Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+14)Write a program which accepts a sequence of words separated by whitespace as input to print the words composed of digits only.
+15)Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.
+16)Write a special comment to indicate a Python source code file is in unicode.
+17)Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+18)Please write a program using list comprehension to print the Fibonacci Sequence in comma separated form with a given n input by console.
+20)Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
